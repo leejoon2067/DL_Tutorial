@@ -1,0 +1,3 @@
+[submodule "multi30k-dataset"]
+	path = multi30k-dataset
+	url = https://github.com/multi30k/dataset
